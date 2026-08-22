@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-bjr1it.toto88krw.cyou/sitemap.xml
